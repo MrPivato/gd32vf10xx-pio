@@ -28,7 +28,7 @@ Any `FTDI` or `Usb to TTL` module should do.
 | USB to TTL | Dev Board |
 |------------|-----------|
 | GND        | GND       |
-| VCC        | 5V        |
+| 3V3        | 3V3       |
 | RXD        | TX        |
 | TXD        | RX        |
 
